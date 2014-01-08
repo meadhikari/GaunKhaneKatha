@@ -9,7 +9,7 @@
 	<br /><br />
 	<b>Love, by <a href="http://skg.com.np" target="_blank">Sushil Gupta</a>.</b>
 	<br /><br />
-	<b><i>Code used to built this site is released under GNU GPLv3 and is available at <a href="https://github.com/guptasushil/GaunKhaneKatha">Github</a>.</i></b>
+	<b><i>Code behind this application is released under GNU GPLv3 and is available at <a href="https://github.com/guptasushil/GaunKhaneKatha">Github</a>.</i></b>
 </div>
 <!-- endof about page div-->
 
