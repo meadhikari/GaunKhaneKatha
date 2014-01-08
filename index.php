@@ -5,12 +5,11 @@
 <!-- about page div -->
 <div class="hero-unit hide" id='hero-unit-about'>
 	<i>Code behind this application is released under GNU GPLv3 and is available for download <a href="<?php echo SOURCECODEURL; ?>" target="_blank">here</a>.</i>
+	<br />
 	Gaun Khane katha is one of the popular question and answer game played/originated in Nepal. The game is played either between two peoples or in groups by asking different rheotorical questions that are not easy to answer. Most of the time, there may be two or more answer as the answers are never exact and symbolic ones that just represents the question. Sometime also known as village eating story,  here, when asking a question, one puts one of his village as a bet, and if the other person, answerer, answers the question correctly, he wins that village. This way, Gau Khane Katha (Gaun Khane Katha) players end up knowing the names of lots and lots of villages. I guess, people used to play this game to enhance their geographical knowledge when things like Google Maps were just not <i>feasible</i>, so to say. :P So, ready to answer?
 	<br /><br />Here, on this website, we have included all the Gaun Khane Katha we have known and found so far. If you know some, help us in increasing the database. Thank you for supporting Nepali Culture.
 	<br /><br />
 	<b>Love, by <a href="http://skg.com.np" target="_blank">Sushil Gupta</a>.</b>
-	<br /><br />
-	<i>Code behind this application is released under GNU GPLv3 and is available in <a href="<?php echo SOURCECODEURL; ?>" target="_blank">Github</a>.</i>
 </div>
 <!-- endof about page div-->
 
