@@ -1,0 +1,109 @@
+.tabs {
+	margin-top: 60px;
+}
+
+.header {
+	width: 100%;
+	float: left;
+}
+
+.logo {
+	height: 150px;
+	width: 200px;
+	margin-bottom: -50px;
+	float: left;
+}
+
+.social {
+	float: right;
+	width: 310px;
+	margin-top: 45px;
+}
+
+.hero-unit {
+	 margin-top: 0px;
+	 padding-bottom: 30px;
+	 font-size: 16px;
+	 line-height: 25px;
+}
+
+footer {
+ margin-top: 0px;
+}
+
+textarea {
+	height: 70px;
+	width: 500px;
+	max-width: 510px;
+	max-height: 100px;
+	min-width: 210px;
+}
+
+h1 {
+	font-size: 13px;
+	color: #BFBFBF;
+	line-height: 36px;
+	/* text-transform: uppercase; */
+	padding-left: 20px;
+	margin-top: -15px;
+	margin-bottom: 5px;
+}
+
+.logout {
+	text-align: right;
+	float: right;
+	margin-right: -2px;
+}
+
+.answerEdit {
+	text-align: right;
+	line-height: 20px;
+}
+
+.answerEdit a {
+	text-decoration: none;
+}
+
+.answerEdit img {
+	padding-left: 10px;
+	margin-top: -10px;
+	margin-bottom: 0px;
+}
+
+.questionList {
+	line-height: 22px;
+}
+
+.hero-unit p {
+	font-size: 26px;
+	margin-bottom: 30px;
+	line-height: 1.4em;
+}
+
+.hide{
+	display:none;
+}
+
+#gkk-answer {
+	margin-top: 30px;
+}
+
+.container {
+	width: 800px;
+}
+
+h6 {
+	margin-top: -18px;
+}
+
+#loading {
+	text-align: right;
+	margin-top: -41px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+}
+
+#adv {
+	text-align: center;
+	margin-top: 30px; 
+}
