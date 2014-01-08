@@ -2,9 +2,10 @@
 	//Constants used in the site
 	define("DB_SERVER", "localhost");
 	define("DB_USER", "root");
-	define("DB_PASS", "root");
+	define("DB_PASS", "");
 	define("DB_NAME", "gaunkhanekatha");
 	define("ADMINEMAIL", 'admin@admin.com');
+	
 	//current password is "password", but change it by putting your own passwords sha1 hash below
 	define("ADMINPASSWORD", '5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8');
 
@@ -12,7 +13,8 @@
 	define("SITENAME", "गाउँ खाने कथा - प्रस्न र उत्तर");
 	define("DESCRIPTION", "Traditional game from Nepal, played with proverbs using question and answers... we call it as, Village Eating Story");
 	define("SITEURL", "http://gaunkhanekatha.com");
-	define("SOURCECODEURL", "http://github.com/deSushil");
+	define("SOURCECODEURL", "https://github.com/guptasushil/GaunKhaneKatha");
+	define("SOURCECODE", "स्रोत कोड");
 	define("GUSER", "info@gaunkhanekatha.com");
 	define("GPWD", "");
 	define("TWITTER", "GaunKhaneKatha");

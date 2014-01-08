@@ -13,6 +13,6 @@ Help
 ============
 If you can not login in as admin, make sure the password you have put in includes/constants.php is sha1 hashed for your password.
 
-Licence
+<a href="https://github.com/guptasushil/GaunKhaneKatha/blob/master/LICENSE">Licence<a>
 =============
 Released under GNU GPLv3.

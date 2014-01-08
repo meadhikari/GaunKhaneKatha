@@ -1,6 +1,6 @@
 ﻿		<!-- Footer -->
 		<footer>
-			<p style="text-align:right;"><?php echo FOOTERMESSAGE; ?> - <a href="https://github.com/guptasushil/GaunKhaneKatha">Source</a></p>
+			<p style="text-align:right;"><?php echo FOOTERMESSAGE; ?>, <a href="<?php echo SOURCECODEURL; ?>"><?php echo SOURCECODE; ?></a></p>
 		</footer>
 
     </div> 
